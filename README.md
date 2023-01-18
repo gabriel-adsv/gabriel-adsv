@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 🙂
+<!-- ## Bem-vindo(a) ao meu perfil 🙂
 
  <div>
   <a href="https://github.com/gabriel-adsv">
@@ -24,4 +24,4 @@
  
    ![Snake animation](https://github.com/gabriel-adsv/gabriel-adsv/blob/output/github-contribution-grid-snake.svg)
 </div>
-
+ -->
