@@ -9,7 +9,7 @@
   <img align="center" alt="HTML" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/2786/2786969.png">
   <img align="center" alt="CSS" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/2786/2786979.png">
   <img align="center" alt="JS" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/3097/3097978.png">
-  <img align="center" alt="PY" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png">
+  <img align="center" alt="PY" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/2535/2535543.png">
 </div>
  
  <br>
