@@ -9,7 +9,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://images.hdqwalls.com/download/python-logo-4k-i6-3840x2160.jpg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/6213/6213801.png">
 </div>
  
  <br>
