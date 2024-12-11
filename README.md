@@ -2,7 +2,9 @@
 
 <div>
   <a href="https://github.com/gabriel-adsv">
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-adsv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-adsv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-adsv&layout=compact&langs_count=6&theme=algolia"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-adsv&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
