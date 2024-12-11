@@ -7,7 +7,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
-  <img align="center" alt="CSS" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/3343/3343972.png">
+  <img align="center" alt="CSS" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
   <img align="center" alt="JS" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/3344/3344325.png">
   <img align="center" alt="PY" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/3344/3344372.png">
 </div>
