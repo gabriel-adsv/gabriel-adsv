@@ -9,7 +9,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://media.istockphoto.com/id/517712864/fr/vectoriel/partie-ic%C3%B4ne-de-python-cadre-programmation-langage-badge-isol%C3%A9.jpg?s=612x612&w=is&k=20&c=wk-lqKnSxq3uJfaStm2BkMdKQ4KRYIqZi9zF7eISGcQ=">
+  <img align="center" alt="CSS" height="30" width="40" src="https://images.hdqwalls.com/download/python-logo-4k-i6-3840x2160.jpg">
 </div>
  
  <br>
