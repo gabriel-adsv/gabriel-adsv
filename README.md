@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-adsv&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/2621/2621200.png">
+  <img align="center" alt="HTML" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/2621/2621200.png">
   <img align="center" alt="CSS" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/2786/2786979.png">
   <img align="center" alt="JS" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/3097/3097978.png">
   <img align="center" alt="PY" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/2535/2535543.png">
