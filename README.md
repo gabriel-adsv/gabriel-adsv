@@ -8,10 +8,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-adsv&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
-  <img align="center" alt="CSS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
-  <img align="center" alt="JS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-  <img align="center" alt="PY" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png">
+  <img align="center" alt="HTML" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
+  <img align="center" alt="CSS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
+  <img align="center" alt="JS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+  <img align="center" alt="PY" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png">
 </div>
  
  <br>
