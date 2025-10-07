@@ -1,12 +1,12 @@
 ## Bem-vindo(a) ao meu perfil 🙂
 
-<!-- <div>
+<div>
   <a href="https://github.com/gabriel-adsv"> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-adsv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-adsv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-adsv&layout=compact&langs_count=6&theme=algolia"/> -->
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-adsv&layout=compact&langs_count=6&theme=algolia"/>
-</div> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-adsv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-adsv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-adsv&layout=compact&langs_count=6&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-adsv&layout=compact&langs_count=6&theme=algolia"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
